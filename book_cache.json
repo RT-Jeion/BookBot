@@ -1,0 +1,806 @@
+{
+  "books": [
+    {
+      "title": "A Light in the Attic",
+      "price": "Â£51.77",
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Tipping the Velvet",
+      "price": "Â£53.74",
+      "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Soumission",
+      "price": "Â£50.10",
+      "url": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Sharp Objects",
+      "price": "Â£47.82",
+      "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": "Â£54.23",
+      "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Requiem Red",
+      "price": "Â£22.65",
+      "url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Dirty Little Secrets of Getting Your Dream Job",
+      "price": "Â£33.34",
+      "url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "price": "Â£17.93",
+      "url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "price": "Â£22.60",
+      "url": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Black Maria",
+      "price": "Â£52.15",
+      "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+      "price": "Â£13.99",
+      "url": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Shakespeare's Sonnets",
+      "price": "Â£20.66",
+      "url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Set Me Free",
+      "price": "Â£17.46",
+      "url": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+      "price": "Â£52.29",
+      "url": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Rip it Up and Start Again",
+      "price": "Â£35.02",
+      "url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+      "price": "Â£57.25",
+      "url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Olio",
+      "price": "Â£23.88",
+      "url": "https://books.toscrape.com/catalogue/olio_984/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+      "price": "Â£37.59",
+      "url": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Libertarianism for Beginners",
+      "price": "Â£51.33",
+      "url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "It's Only the Himalayas",
+      "price": "Â£45.17",
+      "url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "In Her Wake",
+      "price": "Â£12.84",
+      "url": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "How Music Works",
+      "price": "Â£37.32",
+      "url": "https://books.toscrape.com/catalogue/how-music-works_979/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+      "price": "Â£30.52",
+      "url": "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Chase Me (Paris Nights #2)",
+      "price": "Â£25.27",
+      "url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Black Dust",
+      "price": "Â£34.53",
+      "url": "https://books.toscrape.com/catalogue/black-dust_976/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Birdsong: A Story in Pictures",
+      "price": "Â£54.64",
+      "url": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+      "price": "Â£22.50",
+      "url": "https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Aladdin and His Wonderful Lamp",
+      "price": "Â£53.13",
+      "url": "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Worlds Elsewhere: Journeys Around Shakespeareâs Globe",
+      "price": "Â£40.30",
+      "url": "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Wall and Piece",
+      "price": "Â£44.18",
+      "url": "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "price": "Â£17.66",
+      "url": "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+      "price": "Â£31.05",
+      "url": "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Elephant Tree",
+      "price": "Â£23.82",
+      "url": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Bear and the Piano",
+      "price": "Â£36.89",
+      "url": "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Sophie's World",
+      "price": "Â£15.94",
+      "url": "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Penny Maybe",
+      "price": "Â£33.29",
+      "url": "https://books.toscrape.com/catalogue/penny-maybe_965/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Maude (1883-1993):She Grew Up with the country",
+      "price": "Â£18.02",
+      "url": "https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "In a Dark, Dark Wood",
+      "price": "Â£19.63",
+      "url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Behind Closed Doors",
+      "price": "Â£52.22",
+      "url": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "You can't bury them all: Poems",
+      "price": "Â£33.63",
+      "url": "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Slow States of Collapse: Poems",
+      "price": "Â£57.31",
+      "url": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Reasons to Stay Alive",
+      "price": "Â£26.41",
+      "url": "https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Private Paris (Private #10)",
+      "price": "Â£47.61",
+      "url": "https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+      "price": "Â£23.11",
+      "url": "https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Without Borders (Wanderlove #1)",
+      "price": "Â£45.07",
+      "url": "https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "When We Collided",
+      "price": "Â£31.77",
+      "url": "https://books.toscrape.com/catalogue/when-we-collided_955/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "We Love You, Charlie Freeman",
+      "price": "Â£50.27",
+      "url": "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Untitled Collection: Sabbath Poems 2014",
+      "price": "Â£14.27",
+      "url": "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+      "price": "Â£44.18",
+      "url": "https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Unicorn Tracks",
+      "price": "Â£18.78",
+      "url": "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+      "price": "Â£25.52",
+      "url": "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+      "price": "Â£16.28",
+      "url": "https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+      "price": "Â£31.12",
+      "url": "https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "This One Summer",
+      "price": "Â£19.49",
+      "url": "https://books.toscrape.com/catalogue/this-one-summer_947/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Thirst",
+      "price": "Â£17.27",
+      "url": "https://books.toscrape.com/catalogue/thirst_946/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Torch Is Passed: A Harding Family Story",
+      "price": "Â£19.09",
+      "url": "https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Secret of Dreadwillow Carse",
+      "price": "Â£56.13",
+      "url": "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+      "price": "Â£56.41",
+      "url": "https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Past Never Ends",
+      "price": "Â£56.50",
+      "url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Natural History of Us (The Fine Art of Pretending #2)",
+      "price": "Â£45.22",
+      "url": "https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Nameless City (The Nameless City #1)",
+      "price": "Â£38.16",
+      "url": "https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Murder That Never Was (Forensic Instincts #5)",
+      "price": "Â£54.11",
+      "url": "https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+      "price": "Â£42.96",
+      "url": "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+      "price": "Â£23.89",
+      "url": "https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+      "price": "Â£16.77",
+      "url": "https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+      "price": "Â£20.59",
+      "url": "https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+      "price": "Â£37.13",
+      "url": "https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+      "price": "Â£56.06",
+      "url": "https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Death of Humanity: and the Case for Life",
+      "price": "Â£58.11",
+      "url": "https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+      "price": "Â£49.05",
+      "url": "https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Art Forger",
+      "price": "Â£40.76",
+      "url": "https://books.toscrape.com/catalogue/the-art-forger_930/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+      "price": "Â£19.73",
+      "url": "https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+      "price": "Â£32.24",
+      "url": "https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+      "price": "Â£41.83",
+      "url": "https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Soul Reader",
+      "price": "Â£39.58",
+      "url": "https://books.toscrape.com/catalogue/soul-reader_926/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Security",
+      "price": "Â£39.25",
+      "url": "https://books.toscrape.com/catalogue/security_925/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+      "price": "Â£25.02",
+      "url": "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+      "price": "Â£51.04",
+      "url": "https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+      "price": "Â£19.83",
+      "url": "https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+      "price": "Â£50.40",
+      "url": "https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+      "price": "Â£13.61",
+      "url": "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+      "price": "Â£13.34",
+      "url": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Pop Gun War, Volume 1: Gift",
+      "price": "Â£18.97",
+      "url": "https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+      "price": "Â£36.28",
+      "url": "https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Patience",
+      "price": "Â£10.16",
+      "url": "https://books.toscrape.com/catalogue/patience_916/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+      "price": "Â£15.44",
+      "url": "https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+      "price": "Â£48.41",
+      "url": "https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+      "price": "Â£46.35",
+      "url": "https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "On a Midnight Clear",
+      "price": "Â£14.07",
+      "url": "https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Obsidian (Lux #1)",
+      "price": "Â£14.86",
+      "url": "https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "My Paris Kitchen: Recipes and Stories",
+      "price": "Â£33.37",
+      "url": "https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Masks and Shadows",
+      "price": "Â£56.40",
+      "url": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+      "price": "Â£14.02",
+      "url": "https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+      "price": "Â£46.91",
+      "url": "https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+      "price": "Â£45.61",
+      "url": "https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+      "price": "Â£19.92",
+      "url": "https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Layered: Baking, Building, and Styling Spectacular Cakes",
+      "price": "Â£40.11",
+      "url": "https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+      "price": "Â£53.90",
+      "url": "https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "Join",
+      "price": "Â£35.67",
+      "url": "https://books.toscrape.com/catalogue/join_902/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    },
+    {
+      "title": "In the Country We Love: My Family Divided",
+      "price": "Â£22.00",
+      "url": "https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html",
+      "authors": "Unknown Author",
+      "isbn": null,
+      "description": null
+    }
+  ],
+  "timestamp": "2025-11-01T08:18:39.716886",
+  "count": 100
+}
