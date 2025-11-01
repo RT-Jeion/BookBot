@@ -8,8 +8,7 @@ from courier import book_shipment
 import re
 import time
 
-TOKEN = "8190358089:AAF5bZuZ3MtSaFEDUCGCxIHIkEdry9txuv8"
-
+TOKEN = 
 # === COLOR LOGS ===
 class C:
     GREEN  = '\033[92m'
@@ -135,5 +134,6 @@ if __name__ == "__main__":
     print(f"{C.YELLOW}{'='*60}")
     print(f"{' BOOKBOT LIVE — ORDER WORKS '.center(60)}")
     print(f"{'='*60}{C.END}")
+
 
     app.run_polling(drop_pending_updates=True, timeout=30)
