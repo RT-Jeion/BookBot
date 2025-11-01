@@ -6,8 +6,6 @@ from typing import List, Dict
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TELEGRAM_TOKEN = "8190358089:AAF5bZuZ3MtSaFEDUCGCxIHIkEdry9txuv8"
-OPENROUTER_KEY = "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"
 
 # SALESPERSON PROMPT — Friendly, Persuasive, Step-by-Step
 SYSTEM_PROMPT = """
@@ -59,4 +57,5 @@ async def call_llm(messages: List[Dict], temperature=0.3, max_tokens=200) -> str
                 return content if content else "AI returned nothing."
     except Exception as e:
         logger.error(f"LLM Error: {e}")
+
         return "AI down. Try again."
