@@ -1,3 +1,5 @@
+## This is an unfinished Project. So This whole repo is not that completed yet. But still it hold the actual system design. I am currently working on it again.
+
 # BookBot
 AI Chat Agent for Online Bookstore Automation and Customer Engagement
 
